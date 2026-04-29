@@ -124,3 +124,7 @@ with tab4:
         st.bar_chart(report_df.set_index("Item"))
     else:
         st.info("No sales yet. Place some orders first.")
+
+        print("Test update")
+
+st.write("Test update")
